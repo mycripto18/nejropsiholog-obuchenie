@@ -1,0 +1,2 @@
+User-agent: Yandex
+Sitemap: https://nejropsiholog-obuchenie.vercel.app/sitemap.xml
